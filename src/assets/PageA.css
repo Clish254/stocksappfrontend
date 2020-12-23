@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap");
+p {
+  color: #359454;
+  font-weight: 700;
+  font-size: 20px;
+  margin: 0 0 10px 0;
+}
+
+button {
+  background-color: #8f8f8f;
+  border: 3px solid black;
+  border-radius: 10px;
+  padding: 5px;
+  width: 70%;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 20%;
+  outline: none;
+}
+
+h2 {
+  font-family: "JetBrains Mono", monospace;
+  margin: 0;
+}
+
+h3 {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+}
+
+.pagea-flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  justify-content: space-between;
+}
+.pagea-account {
+  align-self: flex-start;
+  margin-left: 3%;
+}
+.pagea-table {
+  align-self: flex-start;
+  justify-self: center;
+  margin-right: 30%;
+  margin-left: 3%;
+}

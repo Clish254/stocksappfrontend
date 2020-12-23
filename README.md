@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Afreeca invest stage 2 test frontend
+
+[Project link](https://afreecainveststocksapp.herokuapp.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

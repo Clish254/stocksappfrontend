@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
+.short-table {
+  border-collapse: seperate;
+  border-spacing: 0;
+  border: 1px solid black;
+  border-radius: 15px 15px 0 0;
+  overflow: hidden;
+}
+
+.short-table-title {
+  font-family: "Open Sans", sans-serif;
+  background-color: #c4c4c4;
+  border-radius: 15px 15px 0 0;
+}
+
+.th-two > th:first-child {
+  font-family: "Roboto", sans-serif;
+  font-weight: 200;
+  background-color: #8f8f8f;
+  padding: 2px 60px 2px 10px;
+  color: black;
+  text-align: left;
+  border-top: 1px solid black;
+}
+
+.th-two > th:last-child {
+  font-family: "Roboto", sans-serif;
+  font-weight: 200;
+  background-color: #8f8f8f;
+  padding: 2px 10px 2px 2px;
+  color: black;
+  text-align: left;
+  border-top: 1px solid black;
+}
+
+.short-table-footer > td {
+  padding-bottom: 10px;
+  background-color: #8f8f8f;
+}
